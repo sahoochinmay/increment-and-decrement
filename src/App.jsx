@@ -19,7 +19,7 @@ const App = () => {
         <div className="center_div">
           <h1>{num}</h1>
           <div className="btn_div">
-            <button onClick={inc}>Increm</button>
+            <button onClick={inc}>Increment</button>
             <button onClick={dec}>Decrem</button>
           </div>
         </div>
