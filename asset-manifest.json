@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/increment-and-decrement/static/css/main.da52217d.chunk.css",
+    "main.js": "/increment-and-decrement/static/js/main.d63cddf5.chunk.js",
+    "main.js.map": "/increment-and-decrement/static/js/main.d63cddf5.chunk.js.map",
+    "runtime-main.js": "/increment-and-decrement/static/js/runtime-main.2983538c.js",
+    "runtime-main.js.map": "/increment-and-decrement/static/js/runtime-main.2983538c.js.map",
+    "static/js/2.4064d737.chunk.js": "/increment-and-decrement/static/js/2.4064d737.chunk.js",
+    "static/js/2.4064d737.chunk.js.map": "/increment-and-decrement/static/js/2.4064d737.chunk.js.map",
+    "index.html": "/increment-and-decrement/index.html",
+    "precache-manifest.eb3a2f0f8543c178289d8c57e9775e52.js": "/increment-and-decrement/precache-manifest.eb3a2f0f8543c178289d8c57e9775e52.js",
+    "service-worker.js": "/increment-and-decrement/service-worker.js",
+    "static/css/main.da52217d.chunk.css.map": "/increment-and-decrement/static/css/main.da52217d.chunk.css.map",
+    "static/js/2.4064d737.chunk.js.LICENSE.txt": "/increment-and-decrement/static/js/2.4064d737.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2983538c.js",
+    "static/js/2.4064d737.chunk.js",
+    "static/css/main.da52217d.chunk.css",
+    "static/js/main.d63cddf5.chunk.js"
+  ]
+}
